@@ -1,0 +1,22 @@
+{
+  "version": {
+    "quran.db": 1,
+    "translation_en.db": 1,
+    "translation_id.db": 1,
+    "translation_es.db": 1,
+    "translation_sv.db": 1,
+    "translation_it.db": 1,
+    "translation_de.db": 1,
+    "translation_ja.db": 1,
+    "translation_zh.db": 1,
+    "translation_bn.db": 1,
+    "translation_ur.db": 1,
+    "translation_ku.db": 1,
+    "translation_tr.db": 1,
+    "translation_az.db": 1,
+    "translation_ha.db": 1,
+    "translation_fa.db": 1,
+    "translation_ta.db": 1,
+    "translation_uz.db": 1
+  }
+}
